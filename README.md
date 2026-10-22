@@ -4,12 +4,8 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec 
 
 ---
 
-### Linguagens e tecnologias em desenvolvimento contínuo
 
-**Stack atual:**
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Ferramentas de IA:**
 
@@ -17,7 +13,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white)
 
-**Stacks que já utilizei:**
+**Stacks que já desenvolvi projetos:**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -36,4 +32,4 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec 
 
 - 📧 E-mail: [lucascavenaghi57@gmail.com](mailto:lucascavenaghi57@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/lucascavenaghi](https://www.linkedin.com/in/lucascavenaghi)
-- 📷 Instagram: [@__lucascavenaghi](https://www.instagram.com/__lucascavenaghi/)
+- 📷 Instagram: @__lucascavenaghi
