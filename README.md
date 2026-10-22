@@ -1,4 +1,4 @@
-# Software Developer | Tecnologia da Informação
+# Analista de T.I | Infraestrutura e Desenvolvimento de Software
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec Itapira e atualmente estou no **4º semestre**. Trabalho na área de tecnologia da informação na Imbil, em Itapira-SP, e sigo aprendendo e praticando por meio de projetos acadêmicos e pessoais.
 
